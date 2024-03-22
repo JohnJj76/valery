@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996782372505",
+    "project_id": "valery-38810",
+    "storage_bucket": "valery-38810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996782372505:android:3ce616c5cc2e6bfc302a08",
+        "android_client_info": {
+          "package_name": "com.johonbar.valery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoBx9R1zY0E00JPgHaQb9uTFzaKMr-BCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
